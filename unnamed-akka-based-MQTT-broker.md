@@ -36,6 +36,7 @@ https://hseeberger.github.io/blog/2013/06/17/introduction-to-akka-i-slash-o/
 
 
 ##To dos:
+* kick-off meeting (Google Hangout)
 * define “minimal viable product”
 * define tasks & sprints
 * Tool? Trello board?
