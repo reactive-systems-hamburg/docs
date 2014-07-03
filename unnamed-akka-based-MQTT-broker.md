@@ -2,7 +2,9 @@
 
 
 ##About MQTT
+
 https://en.wikipedia.org/wiki/MQTT
+
 http://mqtt.org
 
 
@@ -20,9 +22,13 @@ http://mqtt.org
 ##Links
 ###MQTT projects
 https://github.com/mcollina/mosca (node.js)
+
 https://github.com/fusesource/mqtt-client (just a client, maybe useful for testing?)
+
 http://nodered.org (node.js)
+
 http://mosquitto.org (C?)
+
 https://code.google.com/p/moquette-mqtt/ (Java)
 
 ###Other
