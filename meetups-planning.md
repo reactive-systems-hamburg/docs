@@ -19,7 +19,7 @@ CQRS, Event sourcing, Akka Persistence | Dennis Traub | ? |
 Akka Streams, Reactive Streams ? | Roland Kuhn | Oktober? | Roland offered to give a talk in Hamburg. Both date and topic still to be checked with Roland.
 Life without distributed transactions & 2-phase-commits | ? | ? | Idea: Are there patterns, how to replace “enterprisey” things like distributed transactions in asynchronous actor land?
 Akka vs RxJava - what are the differences, when to use which? | ? | ? | See https://github.com/Netflix/RxJava
-Building a scalable Web application with Play and Akka (Workshop) | Markus Jura | ? | People can bring there laptop to do pair programming?
+Building a scalable Web application with Play and Akka (Workshop) | Markus Jura | ? | People should take there laptop along to do pair programming!
 Best Practices with Akka & Play | Markus Jura | ? | Akka Sharding with Play, Play Big Pipe, etc.
 Clustering & Sharding with Akka | ? | ? | Maybe part of building scalable Play application?
 MQTT Broker presentation | ? | ? | We have to build it first…
