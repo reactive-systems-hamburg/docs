@@ -23,4 +23,5 @@ Building a scalable Web application with Play and Akka (Workshop) | Markus Jura 
 Real World Best Practices with Akka & Play | Markus Jura | ? | Akka Sharding with Play, Play Big Pipe, etc.
 Clustering & Sharding with Akka | ? | ? | Maybe part of building scalable Play application?
 MQTT Broker presentation | ? | ? | We have to build it first…
+Akka-HTTP, spray-routing/json | Daniel Wegener | ? | Refurbished talk from the Scala UG 01/14
 
