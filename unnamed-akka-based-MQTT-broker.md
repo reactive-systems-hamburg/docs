@@ -31,6 +31,10 @@ http://mosquitto.org (C?)
 
 https://code.google.com/p/moquette-mqtt/ (Java)
 
+### Conformance/Interoperability Test suite
+
+http://www.eclipse.org/paho/clients/testing/
+
 ###Other
 https://hseeberger.github.io/blog/2013/06/17/introduction-to-akka-i-slash-o/
 
@@ -43,3 +47,8 @@ https://hseeberger.github.io/blog/2013/06/17/introduction-to-akka-i-slash-o/
 * find a name
   * akka-mqtt (sounds too official..)
   * hamqtt (Hamburg Akka Meetup MQTT)
+  * cutie
+    * because mqtt sounds like m cutie t
+    * cutie.io is available ;)
+    * it's a cute name, not too serious, no danger of violating trade mark
+   
