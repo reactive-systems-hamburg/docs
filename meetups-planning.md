@@ -4,7 +4,7 @@
 ##Topics & Speakers for future meetings
 
 
-__If you have ideas / wishes for future talks, please add to the list.__ _(If you can’t, because you don’t have write access, please request it from Markus or Lutz.)_
+If you have ideas / wishes for future talks, or other changes to this document, please branch or fork it and create a pull request. The organizers will either merge it or get in touch with you.
 
 
 If a topic doesn’t have a speaker, it’s up for grabs! If you’re interested in it, why not do a little research and then tell the group about it? 
