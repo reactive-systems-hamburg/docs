@@ -14,7 +14,6 @@ Topic | Speaker | Date | Remarks
 ------|---------|------|--------
 Experience with Akka in a real-world project| Ole Langbehn, inoio Team | 27.8.2014 |Date to be confirmed by Ole
 A simple proxy with akka-io | Jürgen Becker  | 27.8.2014 | Date to be confirmed by Ole, correct title? TCP proxy? HTTP proxy?
-Akka and Mesos at Mesosphere | Dario Rexin | ? | https://mesos.apache.org  http://mesosphere.io https://github.com/mesosphere
 CQRS, Event sourcing, Akka Persistence | Dennis Traub | ? |
 Akka Streams, Reactive Streams ? | Roland Kuhn | Oktober? | Roland offered to give a talk in Hamburg. Both date and topic still to be checked with Roland.
 Life without distributed transactions & 2-phase-commits | ? | ? | Idea: Are there patterns, how to replace “enterprisey” things like distributed transactions in asynchronous actor land?
