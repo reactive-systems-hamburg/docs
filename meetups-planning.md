@@ -12,8 +12,8 @@ If a topic doesn’t have a speaker, it’s up for grabs! If you’re interested
 
 Topic | Speaker | Date | Remarks
 ------|---------|------|--------
-Experience with Akka in a real-world project| Ole Langbehn, inoio Team | 27.8.2014 |Date to be confirmed by Ole
-A simple proxy with akka-io | Jürgen Becker  | 27.8.2014 | Date to be confirmed by Ole, correct title? TCP proxy? HTTP proxy?
+Experience with Akka in a real-world project| Peter Kolloch | 27.8.2014 |confirmed
+A simple proxy with akka-io | Jürgen Becker  | 27.8.2014 | confirmed
 CQRS, Event sourcing, Akka Persistence | Dennis Traub | ? |
 Akka Streams, Reactive Streams ? | Roland Kuhn | Oktober? | Roland offered to give a talk in Hamburg. Both date and topic still to be checked with Roland.
 Life without distributed transactions & 2-phase-commits | ? | ? | Idea: Are there patterns, how to replace “enterprisey” things like distributed transactions in asynchronous actor land?
