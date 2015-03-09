@@ -14,9 +14,9 @@ Topic | Speaker | Date | Remarks
 ------|---------|------|--------
 Experience with Akka in a real-world project| Peter Kolloch | 27.8.2014 |confirmed
 A simple proxy with akka-io | Jürgen Becker  | 27.8.2014 | confirmed
-Real World Best Practices with Akka & Play | Nilanjan Raychaudhuri | 23.9.2014 | Akka Sharding with Play, Play Big Pipe, etc. In cooperation with Scala User Group Hamburg.
+Real World Best Practices with Akka & Play | Markus Jura | ? | Akka Sharding with Play, Play Big Pipe, etc. In cooperation with Scala User Group Hamburg.
 CQRS, Event sourcing, Akka Persistence | Dennis Traub | ? |
-Akka Streams, Reactive Streams ? | Roland Kuhn | Oktober? | Roland offered to give a talk in Hamburg. Both date and topic still to be checked with Roland.
+Akka Streams, Reactive Streams ? | Roland Kuhn | 13.01.2015 | took place
 Life without distributed transactions & 2-phase-commits | ? | ? | Idea: Are there patterns, how to replace “enterprisey” things like distributed transactions in asynchronous actor land?
 Akka vs RxJava vs Vert.x - what are the differences, when to use which? | ? | ? | See https://github.com/Netflix/RxJava and http://vertx.io/
 Clustering & Sharding with Akka | Markus Jura | ? | Maybe part of building scalable Play application?
