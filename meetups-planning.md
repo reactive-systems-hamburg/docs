@@ -21,5 +21,5 @@ Life without distributed transactions & 2-phase-commits | ? | ? | Idea: Are ther
 Akka vs RxJava vs Vert.x - what are the differences, when to use which? | ? | ? | See https://github.com/Netflix/RxJava and http://vertx.io/
 Clustering & Sharding with Akka | Markus Jura | ? | Maybe part of building scalable Play application?
 MQTT Broker presentation | ? | ? | We have to build it first…
-Akka-HTTP, spray-routing/json | Daniel Wegener | ? | Refurbished talk from the Scala UG 01/14
+Akka-HTTP, spray-routing/json | Daniel Wegener | ? | Refurbished talk from the Scala UG 01/14. Not before August 2015.
 
