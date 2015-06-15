@@ -17,7 +17,7 @@ A simple proxy with akka-io | Jürgen Becker  | 27.8.2014 | took place
 Akka Streams, Reactive Streams ? | Roland Kuhn | 13.01.2015 | took place
 Real World Best Practices with Akka & Play | Markus Jura | 27.04.2015 | took place
 CQRS, Event sourcing, Akka Persistence | Dennis Traub | ? |
-Life without distributed transactions & 2-phase-commits | ? | ? | Idea: Are there patterns, how to replace “enterprisey” things like distributed transactions in asynchronous actor land?
+Life without distributed transactions & 2-phase-commits | ? | ? | Idea: Are there patterns, how to replace “enterprisey” things like distributed transactions in asynchronous actor land? Lutz would like to introduce the Saga pattern incl. example implementation in Akka.
 Akka vs RxJava vs Vert.x - what are the differences, when to use which? | ? | ? | See https://github.com/Netflix/RxJava and http://vertx.io/
 Clustering & Sharding with Akka | Markus Jura | ? | Maybe part of building scalable Play application?
 MQTT Broker presentation | ? | ? | We have to build it first…
