@@ -12,7 +12,7 @@ If a topic doesn’t have a speaker, it’s up for grabs! If you’re interested
 
 Topic | Speaker | Date | Remarks
 ------|---------|------|--------
-CQRS, Event sourcing, Akka Persistence | Dennis Traub | ? |
+CQRS, Event sourcing, Akka Persistence | ? | ? |
 Life without distributed transactions & 2-phase-commits | Lutz Hühnken? | ? | Idea: Are there patterns, how to replace “enterprisey” things like distributed transactions in asynchronous actor land? Lutz would like to introduce the Saga pattern incl. example implementation in Akka.
 Akka vs RxJava vs Vert.x - what are the differences, when to use which? | ? | ? | See https://github.com/Netflix/RxJava and http://vertx.io/
 Clustering & Sharding with Akka | Markus Jura | ? | Maybe part of building scalable Play application?
