@@ -21,8 +21,16 @@ Akka-HTTP, spray-routing/json | Daniel Wegener | ? | Refurbished talk from the S
 CRDTs, akka-distributed-data | ? | ? | Talk about what CRDTs are, and how to use them with Akka.
 Akka monitoring with kamon.io | ? | ? | Show how to use kamon.io for Akka logging & tracing.
 ConductR internals | Markus Jura? | ? | ConductR is an Akka Cluster application. Maybe we can talk about how some features are implemented (cluster state with CRDTs, control protocol implementation), without exposing company secrets or copyrighted source code?
-Experience with Akka in a real-world project| Peter Kolloch | 27.8.2014 | took place
-A simple proxy with akka-io | Jürgen Becker  | 27.8.2014 | took place
-Akka Streams, Reactive Streams ? | Roland Kuhn | 13.01.2015 | took place
-Real World Best Practices with Akka & Play | Markus Jura | 27.04.2015 | took place
+
+##Past meetups
+
+
+Topic | Speaker | Date 
+------|---------|------
+Experience with Akka in a real-world project| Peter Kolloch | 27.8.2014
+A simple proxy with akka-io | Jürgen Becker  | 27.8.2014
+Akka Streams, Reactive Streams  | Roland Kuhn | 13.01.2015
+Real World Best Practices with Akka & Play | Markus Jura | 27.04.2015
+Reactive App with Akka and Angular.js | Heiko Seeberger | 14.07.2015
+
 
