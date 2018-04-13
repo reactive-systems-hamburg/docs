@@ -1,4 +1,5 @@
-Hamburg Akka Meetup - Docs
+Reactive Systems Hamburg - Docs
 ====
 
-Shared documents for the Hamburg Akka Meetup
+Shared documents for Reactive Systems Hamburg
+
